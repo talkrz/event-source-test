@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "eventsource": "^1.0.5",
+    "node-fetch": "^2.0.0"
+  }
+}
